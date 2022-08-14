@@ -15,5 +15,10 @@ Relationship Management (CRM) division in each company to analyze and handle com
 analyze customer complaints dataset from a public service provider, the Metropolitan Transportation Authority
 (MTA) public transportation service provider, which provides services such as subway, bus and rail. 
 
+A lack of complaints or a small number of complaints against a product, 
+issue, or firm in the database does not necessarily imply that there is little or no consumer harm. 
+Consumers may be harmed in ways that do not cause them to file a complaint with the Bureau or to blame the product or provider for the harm they have suffered, depending on the nature of the financial product and how consumers use it.
+
+
 # Technologies:- 
 
