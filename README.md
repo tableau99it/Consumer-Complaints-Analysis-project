@@ -49,6 +49,8 @@ http://localhost:8888/notebooks/Consumer%20Complaints%20Analysis.ipynb#load-the-
 
 # LICENSE
 
+iNeuron Intelligence Pvt Ltd
+
 
 
 
