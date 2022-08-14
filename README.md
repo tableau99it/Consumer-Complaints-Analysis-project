@@ -17,7 +17,8 @@ analyze customer complaints dataset from a public service provider, the Metropol
 
 A lack of complaints or a small number of complaints against a product, 
 issue, or firm in the database does not necessarily imply that there is little or no consumer harm. 
-Consumers may be harmed in ways that do not cause them to file a complaint with the Bureau or to blame the product or provider for the harm they have suffered, depending on the nature of the financial product and how consumers use it.
+Consumers may be harmed in ways that do not cause them to file a complaint with the Bureau or to blame the product or provider for the harm they have suffered, depending on the nature of the financial product and how consumers use it.Consider firm size and/or market share when analyzing complaint volume about a company or product. Companies with more consumers, for example, may receive more complaints than those with fewer customers.
+
 
 
 # Technologies:- 
