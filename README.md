@@ -15,3 +15,5 @@ Relationship Management (CRM) division in each company to analyze and handle com
 analyze customer complaints dataset from a public service provider, the Metropolitan Transportation Authority
 (MTA) public transportation service provider, which provides services such as subway, bus and rail. 
 
+# Technologies:- 
+
