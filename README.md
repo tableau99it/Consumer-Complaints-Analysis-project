@@ -24,4 +24,4 @@ Consumers may be harmed in ways that do not cause them to file a complaint with 
 
 # Technologies:- 
 I worked on jupyter notebook with python language, scalable machine learning pipline as well as convolutional neural network in deep learning.
-
+Python's version - 3.10.6 and within this have to used python libraries and as well as versions like a....
