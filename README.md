@@ -45,6 +45,8 @@ Apart from this i tried to Convolutional Neural Network In Deep Learning
 
 I have executed all libraries, modules and functions step by step. 
 
+http://localhost:8888/notebooks/Consumer%20Complaints%20Analysis.ipynb#load-the-data
+
 
 
 
