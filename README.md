@@ -43,7 +43,7 @@ Apart from this i tried to Convolutional Neural Network In Deep Learning
 
 ![image](https://user-images.githubusercontent.com/106155354/184533696-3aa241e9-af65-4a18-bfe4-3a95782ab550.png)
 
-
+I have executed all libraries, modules and functions step by step. 
 
 
 
